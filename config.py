@@ -5,7 +5,7 @@ Configuration settings for the Telegram watermark bot.
 import os
 
 # Bot configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7628459480:AAH-5SlJj5Yvw44ro9ms_Yf0oYO-WbWUKwE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8302304953:AAFyXq5n6a-CQehPiPjYgsQ_cLct1bxzv4U")
 
 # Watermark configuration
 WATERMARK_TEXT = "TG @supplywalah"
