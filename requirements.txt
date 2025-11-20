@@ -1,0 +1,8 @@
+python-telegram-bot==20.8
+requests>=2.32.4
+pillow>=11.3.0
+ffmpeg-python>=0.2.0
+ffmpeg>=1.4
+moviepy
+flask
+mega.py
